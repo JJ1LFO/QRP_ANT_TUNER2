@@ -6,7 +6,7 @@ QRP T-match Antenna Tuner
   * QRP_ANT_TUNER2_schematic.png
   * QRP_ANT_TUNER2_schematic.CE3 (for Bsch3V.exe)
 
-* CASE Construction 
+* CASE Construction (TAKACHI TD7-10-3B)
   * ./case/QRP_ANT_TUNER2_case_TD7-10-3B.dxf
   
   * Drilling
