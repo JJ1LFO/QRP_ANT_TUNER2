@@ -1,0 +1,13 @@
+﻿Electrical Parts,,,,,
+Ref.,Manufacturer,Name,Description,Qty.,Remarks
+VC,-,PVC 260 pF,1 section Poly variable capacitor,2,
+SW,NKK swithes,M-2022L/S,Short lever DTDP toggle sw,1,
+SW,ALPS,SPRM1C4500,1-12 pole rotary sw,1,
+L,AMIDON,T106-2,Toroidal core #2. AL=24.5,1,
+J,-,BNC-J,BNC Receptacle,2,
+,,,,,
+Mechanical Parts,,,,,
+Ref.,Manufacturer,Name,Description,Qty.,Remarks
+-,TAKACHI,TD7-10-3B,Diecast aluminum box. W70 x H32.5 x D100 mm,1,
+-,SATOH,K-90-L,29mm Dia.,2,
+-,SATOH,K-90-S,22mm Dia.,1,
