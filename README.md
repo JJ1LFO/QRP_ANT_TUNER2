@@ -16,5 +16,5 @@ QRP T-match Antenna Tuner
     * ./case/QRP_ANT_TUNER2_print.pdf
 
 * Bill of material
- * QRP_ANT_TUNER2_bom.csv
+  * QRP_ANT_TUNER2_bom.csv
   
