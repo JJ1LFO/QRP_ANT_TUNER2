@@ -19,3 +19,4 @@ QRP T-match Antenna Tuner
 * Bill of material
   * QRP_ANT_TUNER2_bom.csv
   
+* Description [Blog](https://jj1lfo.fc2.net/blog-entry-17.html)
